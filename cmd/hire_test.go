@@ -36,7 +36,7 @@ func TestHireEmployee(t *testing.T) {
 		{
 			name: "4",
 			t:    18,
-			deal: 400,
+			deal: 700,
 			want: "Thuê toàn thời gian",
 		},
 		{
