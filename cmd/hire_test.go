@@ -35,13 +35,13 @@ func TestHireEmployee(t *testing.T) {
 		},
 		{
 			name: "4",
-			t:    18,
+			t:    20,
 			deal: 700,
 			want: "Thuê toàn thời gian",
 		},
 		{
 			name: "5",
-			t:    18,
+			t:    20,
 			deal: 1200,
 			want: "Không thuê",
 		},
